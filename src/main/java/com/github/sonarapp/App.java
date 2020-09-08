@@ -28,4 +28,16 @@ public class App
     	System.out.println("Starting");
     	System.out.println("stop");
     }
+    
+    public int add(int a, int b) {
+    	System.out.println("Starting");
+    	System.out.println("stop");
+    	return a + b ;
+    }
+    
+    public int sub(int a, int b) {
+    	System.out.println("Starting");
+    	System.out.println("stop");
+    	return a - b ;
+    }
 }
